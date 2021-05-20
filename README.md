@@ -1,4 +1,3 @@
-# Git Fundamentals
 
 # Git Exercise
 
